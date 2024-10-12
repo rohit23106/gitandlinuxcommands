@@ -1,0 +1,41 @@
+Linux & Git: Key Topics Covered! 
+Linux Concepts & Commands 
+History of Linux
+Origin of Linux & its evolution in open-source development.
+Key contributors and distributions (Debian, Red Hat, Ubuntu, etc.).
+System Commands
+uname – Display system information
+uptime – System uptime
+Hardware Commands
+lscpu – Display CPU architecture
+free – Check memory usage
+df, du – Disk usage analysis
+File Commands
+ls, cat, touch, mv, cp – Basic file operations
+find, locate – Search for files and directories
+Permission Commands
+chmod, chown – Modify file permissions
+umask – Default permission settings
+User Management Commands
+adduser, userdel – Create or delete users
+passwd – Change passwords
+whoami, id – User identity commands
+Search Commands
+grep – Search within files
+sed – Stream text processors
+find – Locate files in directories
+Networking Commands
+ifconfig, ip – Network interface management
+ping, traceroute – Test network connectivity
+curl, wget – Download content from the web
+ Git Commands
+ Repository Setup
+git init – Initialize a new repository
+Working with Changes
+git add – Stage changes
+git commit – Commit changes with a message
+git status – View current changes
+Branching & Merging
+git branch – Create/view branches
+git checkout – Switch between branches
+git merge – Merge branches
